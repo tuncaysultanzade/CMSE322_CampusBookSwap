@@ -107,4 +107,4 @@ Feel free to modify and reuse for educational or portfolio purposes.
 
 ## 📬 Contact
 
-For any questions or feedback, please contact the group member listed above.# CMSE322_CampusBookSwap
+For any questions or feedback, please contact the group member listed above.
